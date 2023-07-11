@@ -4,6 +4,6 @@ Something about me :-
 - 🔭 I’m currently working on Flutter Development
 - 🌱 I’m currently learning about Machine Learning and Deep Learning
 - 📫 How to reach me: https://www.linkedin.com/in/aaliya-khan-335b1b22b
-- 😄 Pronouns: She/Her
+  
 
   
